@@ -22,6 +22,30 @@ Python 3.12 is needed to bypass the SSL issue *
 11. Implement update functinality
 12. Setup .gitignore file
 
+
+PROJECT STRUCTURE
+project_root_dir
+│
+|
+|
+|__ application
+|    |
+|    |__ templates
+|    |__ __init__.py
+|    |__ routes.py
+|    |__ forms.py
+|
+|
+|__ venv
+|
+|
+|
+|__ README.md
+|
+|
+|__ app.py
+
+
 =================================
 3.1
 >>> import secrets
