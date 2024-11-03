@@ -2,7 +2,12 @@
 Flask MongoDB Todo App
 https://www.youtube.com/watch?v=tJxMPvzkCyo&list=PLU7aW4OZeUzwN0TsZLZUuzhc0f7OVVBcT&index=1
 
+Github/Princekrampah/flaskMongoTodoApp: 
+https://github.com/Princekrampah/flaskMongoTodoApp/tree/master
 
+***********************************************
+Python 3.12 is needed to bypass the SSL issue *
+***********************************************
 
 1. Simple Hello World app
 2. Setup database connection Sign Up For mongoDB cloud
